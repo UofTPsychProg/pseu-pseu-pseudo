@@ -1,7 +1,7 @@
 # pseu-pseu-pseudo
 
 ## Give us your pseudocode!
-For this problem set, your task is to write out the pseudocode for the experiment you'll be implementing for assignment #1. Think about the logic of your experiment, if/how you want to counterbalance, the sequence of a trial, what measures you want to collect, and so on. Then, using pseudocode that makes sense to you, write it out in a structured format. 
+For this problem set, your task is to write out the pseudocode for the experiment you'll be implementing for assignment #1. Think about the logic of your experiment, if/how you want to counterbalance, the sequence of a trial, what measures you want to collect, and so on. Then, using pseudocode that makes sense to you, write it out in a structured format. If you don't know all the details of your experiment, that is fine. Make something up that's sensible, but the closer you are to the experiment you will implement, the more helpful this assignment will be later on!
 
 ## Deliverables
 Your submission should be 1 text file with:
